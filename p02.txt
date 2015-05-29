@@ -24,7 +24,7 @@ GR-TP-rano
    2.Pawel Pokryszka 204013} 
    3.Alicja Barzańska 204020-co w stylu projektu A
    4.Barbara Gorczyca 204002 - coś w stylu projektu A
-   5.Daniel Wencel 204036 - wstępnie coś w stylu projektu A 
+   5.Daniel Wencel 204036, Aleksandra Helon 203973 -ksiazka adresowa 
    6.Joanna Furs 204023- cos w stylu projektu A
 
 GR-TP-wieczór
