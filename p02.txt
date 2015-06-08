@@ -13,7 +13,7 @@ GR-TN-wieczór
    1. Sebastian Lawniczak 204068 (coś w stylu Projektu A: Android + beaglebone)
    2. Wojciech Małecki 204018 (Projekt A - wstępnie)
    3. Joanna Indyka 204006
-      Aleksandra Jurkowska 203986      -Panel sterowania inteligetnego oswietlenia.
+      Aleksandra Jurkowska 203986      -Panel sterowania inteligentnego oswietlenia.
       Kaja Chade 196900 ( z rana TN)
    4. Sebastian Jakubik 192082 , Michał Cieśla 204005 -> Kółko i krzyżyk  
    5. Wojciech Lalik 204010, Łukasz Kuyk 203998 (Grupa TN rano) - Gadu-Gadu
