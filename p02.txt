@@ -29,6 +29,7 @@ GR-TP-rano
 
 GR-TP-wieczór
    1. Rafał Mazerant 186935 + Piotr Małecki-Jurek 183381 Projekt A
+   2. Damian Dejnek 158975 - kompaktowy system erp(zamówienia, klienci, produkty)
 
 Przykładowe tematy projektów:
 A. stacja pogodowa z możliwością wysyłania powiadomień o zagrożeniach SMSem, 
